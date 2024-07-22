@@ -24,13 +24,6 @@ import static com.example.contactapi.constant.Constant.PHOTO_DIRECTORY;
 import static org.springframework.http.MediaType.IMAGE_JPEG_VALUE;
 import static org.springframework.http.MediaType.IMAGE_PNG_VALUE;
 
-/**
- * @author Junior RT
- * @version 1.0
- * @license Get Arrays, LLC (<a href="https://www.getarrays.io">Get Arrays, LLC</a>)
- * @email getarrayz@gmail.com
- * @since 11/22/2023
- */
 
 @RestController
 @RequestMapping("/contacts")
